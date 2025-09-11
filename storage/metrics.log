@@ -1,0 +1,143 @@
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-09 19:34:20"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1d4wI2WrF5zFMK7YApsYrcnmqmiObiuCPJUclD6ZnCASmpKm53ZPet4ae","service":"payement-service","timestamp":"2025-07-09 19:34:21"}
+{"level":"error","message":"❌ Webhook invalide : Webhook payload must be provided as a string or a Buffer (https://nodejs.org/api/buffer.html) instance representing the _raw_ request body.Payload was provided as a parsed JavaScript object instead. \nSignature verification is impossible without access to the original signed material. \n\nLearn more about webhook signing and explore webhook integration examples for various frameworks at https://docs.stripe.com/webhooks/signature\n","service":"payement-service","timestamp":"2025-07-09 19:34:33"}
+{"level":"error","message":"❌ Webhook invalide : Webhook payload must be provided as a string or a Buffer (https://nodejs.org/api/buffer.html) instance representing the _raw_ request body.Payload was provided as a parsed JavaScript object instead. \nSignature verification is impossible without access to the original signed material. \n\nLearn more about webhook signing and explore webhook integration examples for various frameworks at https://docs.stripe.com/webhooks/signature\n","service":"payement-service","timestamp":"2025-07-09 19:34:33"}
+{"level":"error","message":"❌ Webhook invalide : Webhook payload must be provided as a string or a Buffer (https://nodejs.org/api/buffer.html) instance representing the _raw_ request body.Payload was provided as a parsed JavaScript object instead. \nSignature verification is impossible without access to the original signed material. \n\nLearn more about webhook signing and explore webhook integration examples for various frameworks at https://docs.stripe.com/webhooks/signature\n","service":"payement-service","timestamp":"2025-07-09 19:34:33"}
+{"level":"error","message":"❌ Webhook invalide : Webhook payload must be provided as a string or a Buffer (https://nodejs.org/api/buffer.html) instance representing the _raw_ request body.Payload was provided as a parsed JavaScript object instead. \nSignature verification is impossible without access to the original signed material. \n\nLearn more about webhook signing and explore webhook integration examples for various frameworks at https://docs.stripe.com/webhooks/signature\n","service":"payement-service","timestamp":"2025-07-09 19:34:33"}
+{"level":"error","message":"❌ Webhook invalide : Webhook payload must be provided as a string or a Buffer (https://nodejs.org/api/buffer.html) instance representing the _raw_ request body.Payload was provided as a parsed JavaScript object instead. \nSignature verification is impossible without access to the original signed material. \n\nLearn more about webhook signing and explore webhook integration examples for various frameworks at https://docs.stripe.com/webhooks/signature\n","service":"payement-service","timestamp":"2025-07-09 19:34:35"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:35:28"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:36:01"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:36:04"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-09 19:36:11"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1AfKjsnAJRToRXKNLZjGDiN2kA2cHaQeIuz1QXlRRCeCsufJhA8iR39cZ","service":"payement-service","timestamp":"2025-07-09 19:36:12"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:36:54"}
+{"level":"info","message":"💰 Demande de création de session : Plan Premium - SpotR, 4999 EUR","service":"payement-service","timestamp":"2025-07-09 19:37:02"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1E21zkOJMUupOUM5Hi1hsRnfUFfZIjsEDr5UaH5zvEnOnNbkmp60kFc9a","service":"payement-service","timestamp":"2025-07-09 19:37:02"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"warn","message":"⚠️ Événement non géré : charge.succeeded","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1E21zkOJMUupOUM5Hi1hsRnfUFfZIjsEDr5UaH5zvEnOnNbkmp60kFc9a","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"warn","message":"⚠️ Événement non géré : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-09 19:37:15"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-09 19:37:16"}
+{"level":"warn","message":"⚠️ Événement non géré : payment_intent.created","service":"payement-service","timestamp":"2025-07-09 19:37:16"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-09 19:37:18"}
+{"level":"warn","message":"⚠️ Événement non géré : charge.updated","service":"payement-service","timestamp":"2025-07-09 19:37:18"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:37:58"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:38:26"}
+{"level":"info","message":"💰 Demande de création de session : Plan Standard - SpotR, 999 EUR","service":"payement-service","timestamp":"2025-07-09 19:38:32"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1BNq6r31TRq7fAKpl3fdxNSKqBwJbg82DLQe1WSvkM0DKS0t02561jkw9","service":"payement-service","timestamp":"2025-07-09 19:38:32"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"warn","message":"⚠️ Événement non géré : charge.succeeded","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"warn","message":"⚠️ Événement non géré : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1BNq6r31TRq7fAKpl3fdxNSKqBwJbg82DLQe1WSvkM0DKS0t02561jkw9","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"warn","message":"⚠️ Événement non géré : payment_intent.created","service":"payement-service","timestamp":"2025-07-09 19:38:43"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-09 19:38:45"}
+{"level":"warn","message":"⚠️ Événement non géré : charge.updated","service":"payement-service","timestamp":"2025-07-09 19:38:45"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:40:05"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:40:19"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:40:27"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-09 19:41:45"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 13:52:19"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:03:41"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:04:25"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:05:00"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:05:09"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:05:51"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1bJccIIaN8HSHw1xi7Eda3ay4Q3G7RQIM6V293L21uP0wJyFyJLt5bIii","service":"payement-service","timestamp":"2025-07-10 14:05:52"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1bJccIIaN8HSHw1xi7Eda3ay4Q3G7RQIM6V293L21uP0wJyFyJLt5bIii","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"error","message":"❌ Métadonnées manquantes dans la session Stripe","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:06:28"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:06:30"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:06:30"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:07:52"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1HXddHpuSeG8pWxDP25cIA66JmgrZUptnGdClA0ivsme75OYwFEl2k5x1","service":"payement-service","timestamp":"2025-07-10 14:07:53"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1HXddHpuSeG8pWxDP25cIA66JmgrZUptnGdClA0ivsme75OYwFEl2k5x1","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"error","message":"❌ Métadonnées manquantes dans la session Stripe","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:08:09"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:08:11"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:08:11"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:09:11"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:09:51"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:10:05"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a13ADt1c7kUxxWxWRyQkYrULRsu70i4VUmVrP5x2sN63a3MfIbKXV099wI","service":"payement-service","timestamp":"2025-07-10 14:10:05"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a13ADt1c7kUxxWxWRyQkYrULRsu70i4VUmVrP5x2sN63a3MfIbKXV099wI","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"error","message":"❌ Métadonnées manquantes dans la session Stripe","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:10:19"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:10:22"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:10:22"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:14:41"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:14:42"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:14:55"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:14:56"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:14:58"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:15:02"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:15:05"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:17:23"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a19JGYxZtXrXol88VqMCSdApia68pv9zPRKpc3WfXPX4LQtkhHOG42HVKi pour utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:17:23"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a19JGYxZtXrXol88VqMCSdApia68pv9zPRKpc3WfXPX4LQtkhHOG42HVKi","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"✅ Subscription créée avec succès pour l'utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:17:41"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:17:43"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:17:43"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:23:31"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1cCMwxR4TuKRITYqhGLHgPluHhN4Od0Ghy5qQNvW7wyF6dCyFc5X6rFg1 pour utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:23:32"}
+{"level":"info","message":"💰 Demande de création de session : Plan Standard - SpotR, 999 EUR","service":"payement-service","timestamp":"2025-07-10 14:23:34"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1leM3q22440AWaPqTSiIEV2FcyPSyn5PFLX8ER8DS6T5EzmKuNIZDajSV pour utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:23:35"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1leM3q22440AWaPqTSiIEV2FcyPSyn5PFLX8ER8DS6T5EzmKuNIZDajSV","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:23:46"}
+{"level":"info","message":"✅ Subscription créée avec succès pour l'utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:23:47"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:23:49"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:23:49"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:27:09"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:33:38"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1gWIY0Y62yyIwaHorgCqaq7THoVU5q0UHj1BTb3WnZh651ayfLePSFmnz pour utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:33:39"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:33:50"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1CtSdO4kyaqHRGTvIEbpNSxdjvdVusgyCwDs15KmZmpx7mZxI7bSSPAuM pour utilisateur 6829de603c30b1410a92a1ee","service":"payement-service","timestamp":"2025-07-10 14:33:51"}
+{"level":"info","message":"💰 Demande de création de session : Plan VIP - SpotR, 9999 EUR","service":"payement-service","timestamp":"2025-07-10 14:37:00"}
+{"level":"info","message":"✅ Session Stripe créée : cs_test_a1A9FPxk95GfxSJc4gKTKAZw43k861RWw8dbbfjSr02GUqhIrLDsSrnBVp pour utilisateur 686fb376a9fdc7befa9860fd","service":"payement-service","timestamp":"2025-07-10 14:37:00"}
+{"level":"info","message":"📩 Webhook Stripe reçu : checkout.session.completed","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"✅ Paiement complété. Session ID : cs_test_a1A9FPxk95GfxSJc4gKTKAZw43k861RWw8dbbfjSr02GUqhIrLDsSrnBVp","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"🔍 Événement non traité : charge.succeeded","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"✅ Subscription créée avec succès pour l'utilisateur 686fb376a9fdc7befa9860fd","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.succeeded","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"📩 Webhook Stripe reçu : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"🔍 Événement non traité : payment_intent.created","service":"payement-service","timestamp":"2025-07-10 14:37:16"}
+{"level":"info","message":"📩 Webhook Stripe reçu : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:37:20"}
+{"level":"info","message":"🔍 Événement non traité : charge.updated","service":"payement-service","timestamp":"2025-07-10 14:37:20"}
+{"level":"info","message":"Micro Service Payement Started","service":"payement-service","timestamp":"2025-07-10 14:52:55"}
